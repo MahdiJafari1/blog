@@ -1,0 +1,24 @@
+.intro {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.articles {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article {
+    width: 48%;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.article h3 {
+    margin-top: 0;
+}
+
+.article p {
+    margin-bottom: 0;
+}
